@@ -1,0 +1,11 @@
+{
+    "window.autoDetectColorScheme": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "files.associations": {
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "valarray": "c"
+    }
+}
